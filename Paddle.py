@@ -7,7 +7,7 @@ class Paddle:
     def __init__(self, screen):
         self.screen = screen
 
-        self.x = 100
+        self.x = 300
         self.y = 470
         self.width = 100
         self.height = 15
